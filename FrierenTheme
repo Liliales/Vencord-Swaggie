@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://cdn.discordapp.com/attachments/1095485455123886213/1215949813624078427/Cat_Icon.png?ex=65fe9c82&is=65ec2782&hm=0140e8fb5abd1dcf68f2574449b1fb19dbf45b41de3f15253aadc929d0ed18b0&);
+  --home-icon-image: url(https://cdn.discordapp.com/attachments/1095485455123886213/1216305110834221096/DiscordCat.png?ex=65ffe768&is=65ed7268&hm=6fc316ee120e12af65ed0086c16b5929f4f5c0f06544d1586220186f3b5c5aec&);
 
   /*
     Change your friends icon image position
