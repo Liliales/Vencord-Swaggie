@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://cdn.discordapp.com/attachments/1095485455123886213/1213272173909778493/undefined_-_Imgur.png?ex=65f4dec3&is=65e269c3&hm=c05a88382b817363632fd025c10b11c93d684d5ca4b43fb4850b14d13ef37efa&);
+  --theme-background-image: url(https://cdn.discordapp.com/attachments/1095485455123886213/1213272173909778493/undefined_-_Imgur.png?ex=66230343&is=66108e43&hm=dbbf80372763273958981167ca56b8b23e329d4b220170b5efb186780449bb38&);
 
   /*
     Main Theme Color
@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://cdn.discordapp.com/attachments/1095485455123886213/1216305110834221096/DiscordCat.png?ex=65ffe768&is=65ed7268&hm=6fc316ee120e12af65ed0086c16b5929f4f5c0f06544d1586220186f3b5c5aec&);
+  --home-icon-image: url(https://cdn.discordapp.com/attachments/1095485455123886213/1216305110834221096/DiscordCat.png?ex=6624d168&is=66125c68&hm=902dba997e4ae203b0f946845d97c9a8f344e1f2ee69aa2a320d5d86589ba82b&);
 
   /*
     Change your friends icon image position
